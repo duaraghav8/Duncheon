@@ -37,7 +37,7 @@ You have taken an oath that you won't proceed to another level without retrievin
 
 include necessary header files<br />
 take argument 1 from console<br />
-declare an array of 500 characters and name it passwd<br />
+declare an array of 5000 characters and name it passwd<br />
 use strcpy () to copy argument 1 into passwd<br />
 check if passwd is<br /><br />
 
